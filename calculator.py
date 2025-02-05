@@ -9,3 +9,5 @@ def mul:
 
 def div:
   return a//b
+
+print(sum(3+3))
